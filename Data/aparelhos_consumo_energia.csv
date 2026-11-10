@@ -1,0 +1,20 @@
+nome;potencia_W;horas_por_dia;dias_uso_mes;quantidade;categoria;preco_mediana_RS
+Geladeira;110;15,0;30;1;eletrodomestico;
+Ar condicionado split 10.001 a 15.000 BTU;800;8,0;30;1;eletrodomestico;
+Chuveiro eletrico;3500;0,67;30;1;eletrodomestico;
+Computador;100;8,0;30;1;eletrodomestico;
+Cafeteira elpotencia = aparelho.loc[aparelho["nome"] == eletro, "potencia_W"].iloc[0]etrica;600;1,0;30;1;eletrodomestico;
+Aspirador de pó;100;0,33;30;1;eletrodomestico;
+Ferro elétrico automático;1000;1,0;12;1;eletrodomestico;
+Forno micro-ondas;1200;0,33;30;1;eletrodomestico;
+Máquina de lavar roupas;500;1,0;12;1;eletrodomestico;
+Televisão;150;5,0;30;1;eletrodomestico;
+Lâmpada incandescente 40 W;40;5,0;30;1;iluminacao;
+Lâmpada incandescente 60 W;60;5,0;30;1;iluminacao;
+Lâmpada incandescente 100 W;100;5,0;30;1;iluminacao;
+Lâmpada fluorescente compacta 23 W;23;5,0;30;1;iluminacao;
+Lâmpada LED 12 W;12;5,0;30;1;iluminacao;
+Geladeira inverter;;;;1;substituto;2899,00
+Ar-condicionado split inverter 12.000 BTU;;;;1;substituto;2733,00
+Lâmpada LED 9 W;9;5,0;30;1;substituto;3,85
+Lâmpada fluorescente compacta 15 W;15;5,0;30;1;substituto;7,90
